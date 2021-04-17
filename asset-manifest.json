@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Aarogyacard/static/css/main.5bad1cf8.chunk.css",
+    "main.js": "/Aarogyacard/static/js/main.543826d5.chunk.js",
+    "main.js.map": "/Aarogyacard/static/js/main.543826d5.chunk.js.map",
+    "runtime-main.js": "/Aarogyacard/static/js/runtime-main.867236e2.js",
+    "runtime-main.js.map": "/Aarogyacard/static/js/runtime-main.867236e2.js.map",
+    "static/css/2.150d169a.chunk.css": "/Aarogyacard/static/css/2.150d169a.chunk.css",
+    "static/js/2.decce9e1.chunk.js": "/Aarogyacard/static/js/2.decce9e1.chunk.js",
+    "static/js/2.decce9e1.chunk.js.map": "/Aarogyacard/static/js/2.decce9e1.chunk.js.map",
+    "index.html": "/Aarogyacard/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Aarogyacard/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.5bad1cf8.chunk.css.map": "/Aarogyacard/static/css/main.5bad1cf8.chunk.css.map",
+    "static/js/2.decce9e1.chunk.js.LICENSE.txt": "/Aarogyacard/static/js/2.decce9e1.chunk.js.LICENSE.txt",
+    "static/media/brand.db6679d0.png": "/Aarogyacard/static/media/brand.db6679d0.png",
+    "static/media/flaticon.css": "/Aarogyacard/static/media/flaticon.cb56bae7.eot",
+    "static/media/Login.css": "/Aarogyacard/static/media/health-background.20128b58.jpg",
+    "static/media/healthcard.5f702fee.png": "/Aarogyacard/static/media/healthcard.5f702fee.png",
+    "static/media/user.c2876ea8.png": "/Aarogyacard/static/media/user.c2876ea8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.867236e2.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.decce9e1.chunk.js",
+    "static/css/main.5bad1cf8.chunk.css",
+    "static/js/main.543826d5.chunk.js"
+  ]
+}
