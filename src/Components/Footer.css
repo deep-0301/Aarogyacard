@@ -1,0 +1,158 @@
+/* ------------contact details footer---------- */
+.contact-details {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: rgb(0, 0, 0, 0.7);
+  color: white;
+  padding: 10px 0px;
+}
+
+.contact-details::before {
+  background-image: none;
+}
+
+.contact-details h3 {
+  color: white;
+  border-bottom: 1px solid white;
+  padding-bottom: 5px;
+}
+
+.contact-details p {
+  color: #ffffff8c;
+}
+
+.contact-details h6 {
+  color: #828ca3;
+}
+
+.quick-links a {
+  color: white;
+}
+.quick-links a:hover {
+  color: white;
+}
+
+.left-footer,
+.middle-footer,
+.right-footer {
+  padding: 0px 20px;
+}
+
+/* left footer */
+.left-footer {
+  width: 40%;
+}
+
+/* middle-footer */
+.middle-footer {
+  width: 35%;
+}
+
+.icon-info {
+  display: flex;
+  flex-direction: row;
+  /* align-items: center; */
+}
+
+.icon-info i {
+  margin-top: 4px;
+  margin-right: 10px;
+}
+
+/* right-footer */
+.right-footer {
+  width: 25%;
+}
+
+.handles {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-evenly; */
+  margin-top: 30px;
+}
+
+.handles a {
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  margin-right: 25px;
+}
+
+.handles a:hover {
+  color: #828ca3;
+}
+
+/* other links */
+/* .other-links{
+    position: absolute;
+    right: 20px;
+}
+.top-button{
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+}
+
+.top-button i::before{
+    font-size: 3rem;
+} */
+
+/* .top-button i{
+    width: 20px !important;
+} */
+/* .top-button i{
+    margin-top: 20px;
+    text-decoration: none;
+    color: black;
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    border: 2px solid black;
+    outline: none;
+} */
+
+@media (max-width: 1100px) {
+  .contact-details {
+    justify-content: unset;
+  }
+
+  .left-footer,
+  .middle-footer,
+  .right-footer {
+    width: auto;
+  }
+
+  .handles {
+    margin-top: 20px;
+  }
+}
+
+/* @media (max-width: 810px) {
+    .contact-details h3{
+        display: block;
+        width: 100%;
+    }
+
+    .left-footer, .middle-footer, .right-footer{
+        padding: 0px;
+    }
+
+    .contact-details{
+        padding: 0px 20px;
+    }
+} */
+
+/* -----------copy-right footer---------- */
+.copy-right {
+  color: #ffffff8c;
+  background-color: #000000c7;
+  padding: 25px;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+}
+
+.copy-right span {
+  color: #828ca3;
+}
